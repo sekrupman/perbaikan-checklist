@@ -1,1 +1,1 @@
-This project for Mobile Pre Cousr using Flutter
+This project for Mobile Pre Course using Flutter
